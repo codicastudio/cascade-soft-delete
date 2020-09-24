@@ -1,10 +1,10 @@
 {
-  "name": "codica-studio/cascadesoftdelete",
+  "name": "codicastudio/cascade-soft-delete",
   "description": "A random Codica Studio package.",
   "keywords": [
       ""
   ],
-  "homepage": "https://github.com/codicastudio/cascadesoftdelete",
+  "homepage": "https://github.com/codicastudio/cascade-soft-delete",
   "license": "MIT",
   "authors": [
       {
@@ -32,7 +32,7 @@
       "Tests\\": "tests/"
     }
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "prefer-stable": true,
   "config": {
     "extra": {
